@@ -3,3 +3,5 @@ jupiter
 venus
 earth
 sun
+
+I love astrology for many reasons.
